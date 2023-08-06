@@ -9,5 +9,5 @@ pip install -r requirements.txt
 ```shell
 jupyter-lab
 ```
-###操作
+### 操作
 打开浏览器http://localhost:8888/lab/tree/gost_install.ipynb
